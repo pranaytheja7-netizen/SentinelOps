@@ -1,17 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# SentinelOps
 
-# Run and deploy your AI Studio app
+AI-Powered Industrial Safety Intelligence for Zero-Harm Operations — real-time computer vision, IoT sensor fusion, and predictive risk analytics for industrial safety monitoring.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ade022be-9ee2-4b87-b1c5-2580e15fa4c9
+View the app in AI Studio: https://ai.studio/apps/ade022be-9ee2-4b87-b1c5-2580e15fa4c9
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
