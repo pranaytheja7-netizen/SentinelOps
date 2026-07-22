@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOps",
+  "description": "AI-Powered Industrial Safety Intelligence & Real-Time Computer Vision Command Center",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
